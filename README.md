@@ -1,37 +1,22 @@
-👋 Hi, I’m Harsh Patel – a passionate frontend developer transitioning into full-stack development.
-🎯 Actively looking for junior developer or QA/Frontend roles – open to remote or on-site opportunities in Europe.
+👋 Hi, I’m Harsh Patel – QA Automation Engineer with hands-on experience in Playwright, JavaScript, and end-to-end testing.
+
+🎯 Actively seeking QA Automation Engineer / SDET roles across Europe (remote or on-site)
 
 💻 Tech Stack:
 
-Frontend: React.js (incl. Context API, Custom Hooks, Routing), Tailwind CSS, HTML, CSS, JavaScript
+Automation & Testing: Playwright (POM, E2E, data-driven testing), API Testing (REST, Postman), Manual Testing
+Languages: JavaScript, TypeScript
+Frontend: React.js (Hooks, Context API, Routing), HTML, CSS, Tailwind
+Backend (Basics): Node.js, Express.js, MongoDB (Mongoose)
 
-State & Data: React Query (TanStack), Firebase, REST APIs
+⚙️ Key Highlights:
 
-Backend (learning): Node.js, Express.js, MongoDB (Mongoose)
+Built a scalable Playwright E2E automation framework with POM and CI/CD integration
+Implemented authentication reuse using storageState to optimize test execution
+Designed data-driven test architecture using JSON
+Automated real-world user flows: login, cart, checkout
 
-Testing: Manual QA experience (1 year), basic automation knowledge
+🚀 Passionate about building reliable test automation, improving software quality, and writing clean, maintainable code.
 
-Other Tools: Git, GitHub, Vite, React Router, Postman
-
-📚 I’ve learned React through a hands-on Udemy course, building real projects involving forms, HTTP requests, and state management.
-
-🚀 I love building projects, solving problems, and continuously improving my skills.
-🧠 Currently learning: Next.js, TypeScript, backend development with Node.js
-
-📬 Let's connect! I'm open to collaboration and work opportunities.
-📧 Email: [harsh2001patel07@gmail.com]
-
-<!--
-**harsh-S21901/harsh-S21901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Open to opportunities & collaborations
+📧 harsh2001patel07@gmail.com
